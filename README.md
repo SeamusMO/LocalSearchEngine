@@ -43,8 +43,8 @@ This project demonstrates text processing, stopword filtering, boolean search ev
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<SeamusMO>/<LocalSearchEngine>.git
+cd <LocalSearchEngine>
 ```
 
 Ensure Python 3.8 or newer is installed.
